@@ -1,0 +1,27 @@
+body 
+{ 
+  color: rgb(236, 19, 19); 
+  background: rgb(129, 154, 244);
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+} 
+
+.heading 
+{
+   width: 70%; 
+   font-size: 32px; 
+}
+
+#camera 
+{ 
+  border: 2px dashed rgb(0, 225, 255);
+  width: 350px;
+  height: 300px;
+}
+
+.name_of_objects, #result_object_name , #result_object_accuracy 
+{
+   color: rgb(255, 255, 0); 
+}
